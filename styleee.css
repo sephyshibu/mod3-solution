@@ -50,8 +50,20 @@ li{
 	display: block;
 }
 .navbar-toggle{
-	border:2px solid white;
+	border: 2px solid white;
+	margin-right: 25px;
 }
+.navbar-nav{
+  font-size: 25px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.nav{
+	margin: 0;
+	padding: 0;
+}
+
 .icon-bar{
 	background-color: white;
 }
